@@ -4,7 +4,7 @@ This zip file contains the code necessary to run a ShinyApp in R to compare vari
 
 This Shiny app can be found online at:
 
-[https://davidrodwell.shinyapps.io/CategoricalCVABiplotApp/](https://davidrodwell.shinyapps.io/CategoricalCVABiplotApp/):
+[https://davidrodwell.shinyapps.io/CategoricalCVABiplotApp/](https://davidrodwell.shinyapps.io/CategoricalCVABiplotApp/)
 
 Alternatively it can be run locally by running the following code in R:
 
